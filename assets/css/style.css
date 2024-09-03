@@ -1,0 +1,112 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #fff;
+    color: #121212;
+}
+
+/* Default paragraph text color */
+p {
+    color: #121212;
+}
+
+/* Specific text color inside the span */
+.nav-color {
+    color: #757575; 
+}
+
+/* Hover effect for only the .nav-color class */
+.nav-color:hover {
+    color: #1155cc;
+}
+
+/* Container for the main content and links */
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 24px auto 84px auto;
+    max-width: 1000px;
+}
+
+/* Main content on the left */
+.left-content {
+    width: 700px;
+    margin-right: 128px;
+}
+
+/* Links on the right */
+.right-content {
+    width: 172px;
+    text-align: left;
+}
+
+.links {
+    display: flex;
+    flex-direction: column; /* Stack links vertically */
+    gap: 10px; /* Space between links */
+}
+
+.details {
+    display: flex;
+    flex-direction: column; /* Stack links vertically */
+    gap: 10px; /* Space between links */
+}
+
+a:link, a:visited {
+    color: #121212;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1155cc;
+}
+
+.responsive-img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Mobile-specific styles */
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column; /* Stack content vertically */
+        margin: 4px 4px 12px 4px;
+        max-width: 100%; /* Full width for mobile */
+    }
+
+    .right-content {
+        order: -1; /* Move .right-content to the top */
+        width: 100%; /* Full width for mobile */
+        margin-bottom: 0px; /* Space between sections */
+    }
+
+    .left-content {
+        width: 100%; /* Full width for mobile */
+        margin-right: 0;
+    }
+
+    .details {
+        display: none; /* Hide the .details section */
+    }
+
+    .links {
+    display: flex; /* Use flexbox to arrange items */
+    flex-direction: row; /* Align items horizontally */
+    flex-wrap: wrap; /* Wrap to the next line if necessary */
+    gap: 20px; /* Add space between items */
+}
+
+.links p {
+    margin: 0; /* Remove default margin from the <p> tag */
+}
+
+.links a {
+    display: inline-block; /* Ensure each link is treated as a block within the flexbox */
+    margin-right: 20px; /* Space between links */
+    white-space: nowrap; /* Prevent links from breaking into multiple lines */
+}
+
+.links a:last-child {
+    margin-right: 0; /* Remove margin from the last link */
+}
+    
+}
