@@ -20,5 +20,7 @@ title: Week 3
   - A key pitch title that encapsulates your project's essence
   - Your target audience
   - Three guiding principles that drive your project, along with explanations of why these principles are important
+    
 + Using HTML and CSS, finish creating your **Entry 2**. Submit the zip file of your .html and .css
+  
 + Read **[<u>What Is Code?</u>](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)**
