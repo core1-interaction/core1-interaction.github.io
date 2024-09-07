@@ -10,9 +10,8 @@ title: Core 1 Interaction
 Apply these principles across various platforms, experimenting with media, tools, and techniques to create interactive visual projects for the web. This journey culminates in the [**<u>Harmonic Collection</u>**](project.md) project—a semester-long assignment where you'll select a theme, design and code weekly entries, and compile them into a responsive website by the end of the semester.<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 1: the Web Then and Now](week1.md)
-
-[→ Week 2: Hello World](week2.md)<br>
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 3: HTML/CSS basic concepts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 2: Hello World](week2.md)
+[→ Week 3: Stylin' With CSS](week3.md)<br>
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 4: Putting a website online
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 5: HTML structure
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 6: Layouting continued
