@@ -45,6 +45,13 @@ p {
     gap: 10px; /* Space between links */
 }
 
+.class {
+    display: flex;
+    flex-direction: column; /* Stack links vertically */
+    background-color: F2F2F2; /* Background color light grey*/
+    gap: 10px; /* Space between links */
+}
+
 .details {
     display: flex;
     flex-direction: column; /* Stack links vertically */
