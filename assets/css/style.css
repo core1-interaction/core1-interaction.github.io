@@ -48,7 +48,6 @@ p {
 .ourclass {
     display: flex;
     flex-direction: column; /* Stack links vertically */
-    background-color: #000; /* Background color light grey*/
     gap: 10px; /* Space between links */
 }
 
