@@ -7,25 +7,7 @@ title: Core 1 Interaction
 
 **Cultivate a strong foundation in interaction design principles and explore programming as a creative tool**   
 
-Apply these principles across various platforms, experimenting with media, tools, and techniques to create interactive visual projects for the web. This journey culminates in the [**<u>Harmonic Collection</u>**](project.md) project—a semester-long assignment where you'll select a theme, design and code weekly entries, and compile them into a responsive website by the end of the semester.
-
-*Our Class*
-
-[Fari]()
-[Diya]()
-[Sueksha]()
-[August]()
-[Jay](jjy030404.github.io)
-[Savanna](https://savannakuo1.github.io)
-[Queena](https://queena725.github.io)
-[Joanna](pakj190.github.io)
-[Yujin](https://yseo05.github.io)
-[Annet](https://avt20000.github.io/annetvantilburg/)
-[Wendy](https://yran-1210.github.io)
-[Lucy](http://weil129.github.io/)
-[Lucy Z]()
-[Arya](https://aryayang1025.github.io/)
-[Maya](https://maya-ye-510.github.io/)<br><br>
+Apply these principles across various platforms, experimenting with media, tools, and techniques to create interactive visual projects for the web. This journey culminates in the [**<u>Harmonic Collection</u>**](project.md) project—a semester-long assignment where you'll select a theme, design and code weekly entries, and compile them into a responsive website by the end of the semester.<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 1: the Web Then and Now](week1.md)
 
