@@ -23,7 +23,8 @@ title: Week 4
 
 + Review **[<u>Working with Typography</u>](https://learn.shayhowe.com/html-css/working-with-typography/)** and **[<u>Getting to know CSS</u>](https://learn.shayhowe.com/html-css/getting-to-know-css/)** from Shay Howe
      
-+ Using everything we’ve learned so far on HTML and CSS, create your **Entry 3**<br>
-Submit the *zip file* of your *.html* and *.css*
-  
++ For your Harmonic Collection. Have all of the following below complete by next week:
+  - Complete your **main page with links to Entry 1 and Entry 2**
+  - Using the HTML and CSS concepts we've covered, create **Entry 3**
+  - Develop a **process page** that includes your 3 themes, mindmap, 1 pager and graphic treatment
 
