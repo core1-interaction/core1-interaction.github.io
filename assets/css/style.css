@@ -94,6 +94,10 @@ a:hover {
         display: none; /* Hide the .details section */
     }
 
+     .ourclass {
+        display: none; /* Hide the .details section */
+    }
+
     .links {
     display: flex; /* Use flexbox to arrange items */
     flex-direction: row; /* Align items horizontally */
