@@ -15,9 +15,10 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 3: Stylin' With CSS](week3.md)
 
-[→ Week 4: Web Typography](week4.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Week 4: Web Typography](week4.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 5: The Box Model
+[→ Week 5: The Box Model](week5.md)<br>
+
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 6: Layouting continued
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 7: Responsive Units & Media Queries
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 8: Midterm presentations
