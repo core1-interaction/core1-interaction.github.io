@@ -1,4 +1,3 @@
-
 ---
 layout: sessions
 title: Week 5
@@ -10,7 +9,7 @@ title: Week 5
 
 
 *In Class*  
-+ Present your One Pager + Entry 2
++ Present your Graphic Treatment + Entry 3
 + Adding Assets	
 + Demo: The Box Model	
 + Demo: Intro to Figma
