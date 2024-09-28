@@ -28,13 +28,17 @@ In the final weeks, you'll refine your 10 entries to ensure they clearly communi
 
 *Midterm Review:* 
 
-You'll present a refined version of your collection in a one-on-one meeting. Before this, discuss with classmates:
-* How has your theme evolved?
-* How does the content and design communicate the theme?
-* Is the pacing of your collection considered? Are there opportunities for dramatic changes in pace?
-* Can you establish a design template or system? When and how can you break it to add interest?
+You’ll present a refined version of your collection to the classroom:
+* You need to have 5 entries along with your main page
+* Submit a short written paragraph explaining your process so far:
+  - How has your theme evolved?
+  - How do the content and design communicate the theme?
+  - What is currently working well?
+  - What isn’t working well, and how would you improve it moving forward?
+  - What has been your favorite and least favorite topic so far?
 
-Prepare a short written paragraph explaining your theme so far and three new directions you could explore for the rest of the semester
+Giving feedback is part of your grade, so be prepared to give feedback on at least one classmate’s presentation.
+Additionally, how you present is also part of your grade, so be ready to discuss your project
 
 
 
