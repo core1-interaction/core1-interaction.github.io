@@ -21,4 +21,4 @@ title: Week 5
 
 + Create **Entry 4** with incorporating assets such as video, image, audio or links 
      
-+ Read **[<u>Apple’s Modernism, Google’s Modernism</u>](http://natalia.cecire.org/research/apples-modernism-googles-modernism-some-reflections-on-alphabet-inc-and-a-suggestion-that-modernist-architect-adolf-loos-would-be-totally-into-soylent/)**from our reading list and submit a response on Canvas
++ Read **[<u>Apple’s Modernism, Google’s Modernism</u>](http://natalia.cecire.org/research/apples-modernism-googles-modernism-some-reflections-on-alphabet-inc-and-a-suggestion-that-modernist-architect-adolf-loos-would-be-totally-into-soylent/)** from our reading list and submit a response on Canvas
