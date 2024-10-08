@@ -12,12 +12,11 @@ title: Week 7
 + Share your inspiration
 + Lecture: Bringing Static to Life
 + Demo: Transform, Transition, Animation
-+ Exercise: Happy Birthday!
-+ Assignments for next week		
++ Exercise: Happy Birthday!<br><br>	
 
 
 *Assignments for next week*	
-+ Review **[<u>CSS Transform</u>](https://www.w3schools.com/cssref/css3_pr_transform.php)**, **[<u>CSS Transition</u>](https://www.w3schools.com/css/css3_transitions.asp)**,**[<u>CSS Animation</u>](https://www.w3schools.com/css/css3_animations.asp)**
++ Review **[<u>CSS Transform</u>](https://www.w3schools.com/cssref/css3_pr_transform.php)**, **[<u>CSS Transition</u>](https://www.w3schools.com/css/css3_transitions.asp)**, **[<u>CSS Animation</u>](https://www.w3schools.com/css/css3_animations.asp)**
 
 + Be ready for your **[<u>Midtern Presentation</u>](project.md)** Think about how you will talk about your project. You should always start with what your theme is and how the design choices you made represent your idea. Please don’t be late to class so we don’t disturb our classmate’s presentations.
   
