@@ -12,7 +12,7 @@ title: Week 3
 + Present your Mind Map + Entry 1
 + Setting Guiding Principles
 + Stylin' With CSS
-+ Visual Design Principles
++ Visual Design Principles<br><br>
 
 
 *Assignments for next week*	
