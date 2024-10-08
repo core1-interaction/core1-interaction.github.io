@@ -13,7 +13,7 @@ title: Week 5
 + Adding Assets	
 + Demo: The Box Model	
 + Demo: Intro to Figma
-+ Group Exercise: Revamp a webpage
++ Group Exercise: Revamp a webpage<br><br>
 
 
 *Assignments for next week*	
