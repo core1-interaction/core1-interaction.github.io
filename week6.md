@@ -13,7 +13,7 @@ title: Week 6
 + Group Exercise: Revamp a webpage
 + Lecture: Creating Layouts	
 + Exercise: Your Turn to Find Breakpoints
-+ Demo: Flexbox
++ Demo: Flexbox<br><br>
 
 
 *Assignments for next week*	
