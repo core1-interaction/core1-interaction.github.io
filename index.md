@@ -19,9 +19,10 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 5: Web Typography](week5.md)
 
-[→ Week 6: Creating Layouts](week6.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 6: Creating Layouts](week6.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 7: Responsive Units & Media Queries
+[→ Week 7: Bringing Static to Life](week7.md)<br>
+
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 8: Midterm presentations
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 9: Programming user interactions
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 10: Timebased design & randomness
