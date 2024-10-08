@@ -17,7 +17,7 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 4: Web Typography](week4.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Week 5: Web Typography](week5.md)
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 5: The Box Model](week5.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 6: Creating Layouts](week6.md)
 
