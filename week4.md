@@ -12,7 +12,7 @@ title: Week 4
 + Present your One Pager + Entry 2
 + Peer Aid Workshop
 + Web Typography
-+ CSS Font Formatting Demo
++ CSS Font Formatting Demo<br><br>
 
 
 *Assignments for next week*	
