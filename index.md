@@ -21,9 +21,10 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 6: Creating Layouts](week6.md)
 
-[→ Week 7: Bringing Static to Life](week7.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 7: Bringing Static to Life](week7.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 8: Midterm presentations
+[→ Week 8: Midterm presentations](week8.md)<br>
+
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 9: Programming user interactions
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 10: Timebased design & randomness
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 11: Project JavaScript Libraries
