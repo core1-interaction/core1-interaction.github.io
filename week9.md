@@ -9,7 +9,9 @@ title: Week 9
 
 
 *In Class*  
-+ **[<u>Midterm Presentation</u>](https://docs.google.com/document/d/1E_19CYDhHyd0T_rOrG_9aWK33XSHdzYNmN4T6Sh4TPQ/edit?usp=sharing)**<br><br>	
++ Crediting Code in Programming
++ Lecture: Let's Get Variable	
++ Activity: Conditionals!<br><br>	
 
 
 *Assignments for next week*	
