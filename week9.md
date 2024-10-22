@@ -17,4 +17,4 @@ title: Week 9
 *Assignments for next week*	
 + Create **Entry 7** and keep on improving your Harmonic Collection
   
-+ Review **[<u>JavaScript Syntax</u>](https://www.w3schools.com/js/js_syntax.asp))**, **[<u>Variables</u>](https://www.w3schools.com/js/js_variables.asp)**, **[<u>Data Types</u>](https://www.w3schools.com/js/js_datatypes.asp)**, **[<u>Strings</u>](https://www.w3schools.com/js/js_strings.asp)** and **[<u>Numbers</u>](https://www.w3schools.com/js/js_numbers.asp)]**
++ Review **[<u>JavaScript Syntax</u>](https://www.w3schools.com/js/js_syntax.asp)**, **[<u>Variables</u>](https://www.w3schools.com/js/js_variables.asp)**, **[<u>Data Types</u>](https://www.w3schools.com/js/js_datatypes.asp)**, **[<u>Strings</u>](https://www.w3schools.com/js/js_strings.asp)** and **[<u>Numbers</u>](https://www.w3schools.com/js/js_numbers.asp)**
