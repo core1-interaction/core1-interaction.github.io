@@ -25,9 +25,10 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 8: Midterm Presentations](week8.md)
 
-[→ Week 9: Let's Get Variable](week9.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 9: Let's Get Variable](week9.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 10: Timebased design & randomness
+[→ Week 10: Click, Scroll, Keypress](week10.md)<br>
+
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 11: Project JavaScript Libraries
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 12: Group Q & A session
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 13: Accessibility, Metadata
