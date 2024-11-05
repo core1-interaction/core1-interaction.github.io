@@ -12,7 +12,7 @@ title: Week 11
 + Reading Response Working Session / 1:1 Midterm Grade Communication
 + Reading Discussion
 + Artist Inspiration
-+ Lecture: Randomize It!</br></br>
++ Lecture: Randomize It!<br><br>
 
 
 *Assignments for next week*	
