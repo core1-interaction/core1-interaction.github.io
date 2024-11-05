@@ -18,4 +18,4 @@ title: Week 11
 *Assignments for next week*	
 + Create **Entry 9** and keep on improving your Harmonic Collection. **You must have your Github link working before next week's class**
 
-+ Review **[<u>Array</u>](https://javascript.info/event-detail)** and **[<u>JavaScript Random</u>](https://www.w3schools.com/js/js_random.asp)**
++ Review **[<u>Array</u>](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)** and **[<u>JavaScript Random</u>](https://www.w3schools.com/js/js_random.asp)**
