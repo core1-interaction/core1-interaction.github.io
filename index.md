@@ -29,9 +29,10 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 10: Click, Scroll, Keypress](week10.md)
 
-[→ Week 11: Randomize It!](week11.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 11: Randomize It!](week11.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 12: Group Q & A session
+[→ Week 12: Peer Workshop](week12.md)<br>
+
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 13: Accessibility, Metadata
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 14: Group Q & A session
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 15: Final presentations<br><br>
