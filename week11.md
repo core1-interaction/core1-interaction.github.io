@@ -5,7 +5,7 @@ title: Week 11
 
 [<span class="nav-color">← Core 1: Interaction</span>](core1-interaction.github.io)
 
-#### Week 11 <br>October 29<br><br>
+#### Week 11 <br>Novermber 5<br><br>
 
 
 *In Class*  
