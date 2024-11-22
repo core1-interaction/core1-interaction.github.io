@@ -31,9 +31,10 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 11: Randomize It!](week11.md)
 
-[→ Week 12: Peer Workshop](week12.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 12: Peer Workshop](week12.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 13: Accessibility, Metadata
+[→ Week 13: Everything is a Remix](week13.md)<br>
+
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 14: Group Q & A session
 #### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 15: Final presentations<br><br>
 
