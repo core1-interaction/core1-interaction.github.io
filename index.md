@@ -35,9 +35,9 @@ Apply these principles across various platforms, experimenting with media, tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Week 13: Everything is a Remix](week13.md)
 
-[→ Week 14: Giving & Receiving Feedback](week14.md)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Week 14: Giving & Receiving Feedback](week14.md)
 
-#### <span style="color: #BDBDBD;">&nbsp;&nbsp;&nbsp;&nbsp; Week 15: Final presentations<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;Week 15: Final presentations<br><br>
 
 The structure and content of this course are modeled after the general guidelines of the Parsons BFA Communication Design Program and the course sites from previous years ([M. Fehrenbach](https://core-interaction.github.io), [N. Fisher](http://cif23.labud.nyc/))
 
